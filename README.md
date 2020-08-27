@@ -1,2 +1,1 @@
-Here's the link for the website.
-https://ayushblaze.github.io/RestaurantWebsite-Bootstrap-3-/
+Here's the link for the website: https://ayushblaze.github.io/RestaurantWebsite-Bootstrap-3-/
